@@ -1,2 +1,2 @@
 # BrightEyes-CS
-Redirect to BrightEyes-MCS
+Please redirect to [BrightEyes-MCS](https://github.com/VicidominiLab/BrightEyes-MCS)
